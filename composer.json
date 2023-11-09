@@ -1,0 +1,11 @@
+{
+  "name": "billortell/error",
+  "description": "Helper for errors in PHP.",
+  "autoload": {
+    "psr-4": {
+      "Helpers\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
